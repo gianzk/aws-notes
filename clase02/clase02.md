@@ -2,7 +2,9 @@
 
     1.Creacion de cuenta aws
         -IAM ,users and groups
-        <img src="./../asstes/iam.png" alt="img">
+        <img src="./assets/iam.png" alt="img">
+
+        ![Alt Text](./../assets/iam.png)
 
     2.Conociendo la consola AWS y servicios
         -S3
