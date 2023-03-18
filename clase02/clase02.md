@@ -3,10 +3,10 @@
     1.Creacion de cuenta aws
         -IAM ,users and groups
         <img src="./assets/iam.png" alt="img">
-
         ![Alt Text](./../assets/iam.png)
 
     2.Conociendo la consola AWS y servicios
+        -EC2 <> LIGHTSAIL
         -S3
         -GLUE
         -ATHENA
